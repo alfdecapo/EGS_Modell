@@ -35,3 +35,24 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 .DS_Store
+
+# SolidWorks Temporäre Dateien (während die Datei offen ist)
+~$*.*
+*.swp
+*.sldlfp
+*.err
+*.spa
+*.ver
+*.tmp
+
+# FreeCAD Backup Dateien
+*.FCStd1
+*.FCStd2
+*.FCBack*
+
+# Slicer / G-Code (falls du nur STLs aber keine G-Codes im Git willst)
+# *.gcode
+
+# Systemdateien
+Thumbs.db
+.DS_Store
