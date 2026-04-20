@@ -26,6 +26,11 @@ Da es sich um einen modularen Bausatz handelt, variiert der Bedarf je nach gewä
 * [Zusammenbau Fuß](Anleitungen/ZusammenbauFuss.md)
 * [Zusammenbau Vertikale](Anleitungen/ZusammenbauVertikale.md)
 
+## ❓ Fragen & Problemlösungen
+Sollten in den Montageanleitungen noch Fragen offen bleiben kann die FAQ Seite weiter helfen.
+
+👉 **[Hier geht es zur separaten FAQ-Seite](FAQ.md)**
+
 ## 🛠 Software & Mitwirken
 
 Das Projekt wird zukünftig primär mit **FreeCAD** entwickelt. Wenn du Änderungen vornehmen möchtest, nutze bitte die Dateien im Ordner `CAD Dateien/FreeCAD/`.
