@@ -2,6 +2,9 @@
 Dateispeicher und Entwicklungsdaten für das Einsatz-Gerüst-System als Modellbausatz.
 Das Modell hat einen Maßstab 1:7,7.
 
+Beispiel:
+![Bild vom freitrageneden Steg](Bilder/Demo_Isometrisch.jpg)
+
 ## 🛠️ Vorbereitung
 
 Bevor du mit dem Druck startest, beachte bitte diesen Ablauf, um unnötige Druckstunden und Fehlkäufe bei den Zukaufteilen zu vermeiden.
