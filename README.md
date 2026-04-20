@@ -24,6 +24,7 @@ Da es sich um einen modularen Bausatz handelt, variiert der Bedarf je nach gewä
 * [Zusammenbau Diagonale](Anleitungen/ZusammenbauDiagonale.md)
 * [Zusammenbau Drehkupplung](Anleitungen/ZusammenbauDrehkupplung.md)
 * [Zusammenbau Fuß](Anleitungen/ZusammenbauFuss.md)
+* [Zusammenbau Riegel](Anleitungen/ZusammenbauRiegel.md)
 * [Zusammenbau Vertikale](Anleitungen/ZusammenbauVertikale.md)
 
 ## ❓ Fragen & Problemlösungen
