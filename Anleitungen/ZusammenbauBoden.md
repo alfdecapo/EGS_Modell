@@ -19,3 +19,5 @@ Zur Vereinfachung werden hier nur Adapter und Holzplatte verwendet
 ## 📄 Relevante Dateien
 * [Bodenadpter breit](../Drucker%20Dateien/Bodenadapter%20breit.STL)
 * [Bodenadpter breit](../Drucker%20Dateien/Bodenadapter%20schmal.STL)
+---
+[Zurück zur Hauptanleitung](README.md)

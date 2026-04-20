@@ -20,3 +20,5 @@ Achte dabei darauf, dass die kleinen Löcher des Flansches zu den seiten des Fu�
 * [Flansch](../Drucker%20Dateien/Flansch.STL)
 * [Fuß](../Drucker%20Dateien/Fuß.STL)
 * [Fußadapter Simpel](../Drucker%20Dateien/Fußadapter%20Simpel.STL)
+---
+[Zurück zur Hauptanleitung](README.md)

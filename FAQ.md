@@ -12,14 +12,26 @@
 <details>
   <summary><b>Warum der ungerade Faktor von 1:7,7?</b></summary><br>
   Im echten EGS sind alle Stangen (Vertikalen/Riegel/Diagonalen) auf einem Ø48mm Rohr aufgebaut. 
-  Ich verwende als Basis 6mm Stangen. Es wurde also auf Zielmaterialien desingd und nicht auf gerade Scalierungen.
-  - ToDo: Irgendwas stimmt hier noch nicht, die Zahlen passen nicht. In der CAD wurde um von 48,4mm auf 6,2mm zu kommen eine Scalierung von 0.13 verwendet.
+  Ich verwende als Basis 6mm Stangen. Es wurde also auf Zielmaterialien desingd und nicht auf gerade Faktoren.
+  
+  ToDo: Irgendwas stimmt hier noch nicht, die Zahlen passen nicht. In der CAD wurde um von 48,4mm auf 6,2mm zu kommen eine Scalierung von 0.13 verwendet.
+</details>
+
+<details>
+  <summary><b>Welche Möglichkeiten gibt es die Toleranzen anzupassen?</b></summary><br>
+  Der erste und einfachste weg ist es im Sclicer die Scalierung an zu passen. 
+  Das Projekt wurde mit PLA entwickelt.
+  * PLA  -> 0,2% - 0,5%
+  * ABS  -> 0,7% - 1,6%
+  * PETG -> 0,2% - 1,0%
+  Was bei dem Flansch einen starken unterschied machen kann ist die erste Schicht des Druckes. Versuche den Flansch auf einem Raft zu drucken.
 </details>
 
 <details>
   <summary><b>Die Flanschverbindungen wackeln recht viel</b></summary><br>
   Das ist ein noch vorhandenes Problem. Wird das Spiel verkleinert wird es unmöglich die Verbindung zu öffnen oder zu schließen, 
-  oder im schlimmsten Fall zerbricht das Keilschloss. 
+  oder im schlimmsten Fall zerbricht das Keilschloss.
+  Wenn du das Spiel weiter einschränken willst schaue bei den Möglichkeiten zu Toleranzanpassung nach.
   👉 Solltest du Ideen oder Lösungen zu dem Problem finden kannst du zu diesem Projekt beitragen über ein Issue oder indem du ein Mitglied wirst.
 </details>
 

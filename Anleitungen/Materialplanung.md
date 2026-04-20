@@ -74,12 +74,12 @@ Template:
 
 [Anleitung](ZusammenbauBoden.md)
 ### Sonstige
-* [Fuß mit Anfangstück](ZusammenbauFuß.md)
+* [Fuß mit Anfangstück](ZusammenbauFuss.md)
 	* Rundstab 44mm
 	* 1x Fuß
 	* 1x Fußadapter
 	* 1x Flansch
-* [Anfangstück](ZusammenbauFuß.md)
+* [Anfangstück](ZusammenbauFuss.md)
 	* Rundstab 44mm
 	* 1x Fußadapter
 	* 1x Flansch
@@ -87,3 +87,5 @@ Template:
 	* 1x Drehkupplung Klemme
 	* 1x Drehkupplung Lose
 	* 1x Nagel
+---
+[Zurück zur Hauptanleitung](README.md)

@@ -14,3 +14,5 @@ Achte dabei darauf, dass die Keilschlösser auf beiden Seiten gleich ausgerichte
 
 ## 📄 Relevante Dateien
 * [Horizontale Keilschloss](../Drucker%20Dateien/Horizontale%20Keilschloss.STL)
+---
+[Zurück zur Hauptanleitung](README.md)
