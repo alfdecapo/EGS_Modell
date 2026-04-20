@@ -12,6 +12,7 @@ aus dem 3D-Drucker kommen:
 * Bucherundstab 6mm (Alternativ Messingrohr)
 * Holzplatte 8mm dick
 * Nagel D2x45 (Alternativ Blechschraube M2x6mm)
+* Bastelkleber
 
 ## Bausätze
 Boah! Voll leer hier! Ich hatte noch keine Zeit die Teilelisten aus den EGS-Handbücher zu importieren.
