@@ -19,11 +19,13 @@
 
 <details>
   <summary><b>Welche Möglichkeiten gibt es die Toleranzen anzupassen?</b></summary><br>
-  Der erste und einfachste weg ist es im Sclicer die Scalierung an zu passen. 
+  Der erste und einfachste weg ist es im Sclicer die Scalierung anzupassen. 
   Das Projekt wurde mit PLA entwickelt.
+
   * PLA  -> 0,2% - 0,5%
   * ABS  -> 0,7% - 1,6%
   * PETG -> 0,2% - 1,0%
+
   Was bei dem Flansch einen starken unterschied machen kann ist die erste Schicht des Druckes. Versuche den Flansch auf einem Raft zu drucken.
 </details>
 
@@ -32,6 +34,7 @@
   Das ist ein noch vorhandenes Problem. Wird das Spiel verkleinert wird es unmöglich die Verbindung zu öffnen oder zu schließen, 
   oder im schlimmsten Fall zerbricht das Keilschloss.
   Wenn du das Spiel weiter einschränken willst schaue bei den Möglichkeiten zu Toleranzanpassung nach.
+  
   👉 Solltest du Ideen oder Lösungen zu dem Problem finden kannst du zu diesem Projekt beitragen über ein Issue oder indem du ein Mitglied wirst.
 </details>
 
