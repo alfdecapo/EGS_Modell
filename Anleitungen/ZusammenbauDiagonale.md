@@ -2,11 +2,16 @@
 Das nutzen eines Nagels ist getestet und funktioniert, ist aber schwierig zu bauen. 
 Sobald die Schraube getestet ist wir die Anleitung umgeschrieben
 
+![Bild mit dem Zusammenbau einer Seite der Diagonalen und Beschriftung der Teile](../Bilder/Vertikale-Gesammtansicht.png)
+
 ## Variationen
 Für die Stückliste der einzelnen Variationen siehe [hier](Materialplanung.md#diagonalen).
 Zur Vereinfachung werden hier nur Rundstab, Nagel, Gelenk und Keilschloss verwendet
 
 ## 🛠 Zusammenbau
+
+![Explosionsdarstellung einer Seite einer Daigonalen um den Ablauf des Zusammenbaues sehen zu können](../Bilder/Vertikale-Explosion.png)
+
 * Länge den Rundstab auf die benötiget Länge ab
 	* 2x1 -> 210mm
 	* 2x2 -> 293mm

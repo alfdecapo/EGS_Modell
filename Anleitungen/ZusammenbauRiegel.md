@@ -1,10 +1,14 @@
 # Zuammbauanleitung Riegel 
+![Bild mit dem Zusammenbau einer Seite der Riegel und Beschriftung der Teile](../Bilder/Horizontale-Gesammtansicht.png)
 
 ## Variationen
 Für die Stückliste der einzelnen Variationen siehe [hier](Materialplanung.md#riegel).
 Zur Vereinfachung werden hier nur Rundstab und Keilschloss verwendet
 
 ## 🛠 Zusammenbau
+
+![Explosionsdarstellung einer Seite einer Riegel um den Ablauf des Zusammenbaues sehen zu können](../Bilder/Horizontale-Explosion.png)
+
 * Länge den Rundstab auf die benötiget Länge ab
 	* 2x1 -> 110mm
 	* 2x2 -> 240mm
