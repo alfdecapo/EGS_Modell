@@ -5,6 +5,17 @@ werden viele Stangen, und somit viele Zukaufteile, benötigt. Die Teile für den
 haben in meinem Fall ca. 120€ gekostet. Mache dir daher vorher Gedanken wieviel du Ausgeben möchtest
 und welchen Verwendungszweck du hast (Übungsmodell - viele Ersatzteile / Ausstellungsstück).
 
+## Inhaltsverzeichnis
+* [Nicht gedruckte Teile](#nicht-gedruckte-teile)
+* [Bausätze](#bausatze)
+* [Gerüste]
+* [Einzelteile](#einzeilteile)
+	* [Vertikalstiele](#vertikalstiele)
+	* [Riegel (Horizontalen)](#riegel-horizontalen)
+	* [Diagonalen](#diagonalen)
+	* [Böden](#boden)
+	* [Sonstige](#sonstige)
+
 ## Nicht gedruckte Teile
 Selbst in dem kleinen Maßstab passen die meisten Stangen nicht in das Druckvolumen üblicher 3D-Drucker.
 Zudem sind in der größe Holz oder Messing stabiler als gedruckte Teile. Nachfolgend die Teile die nicht 
@@ -17,6 +28,7 @@ aus dem 3D-Drucker kommen:
 ## Bausätze
 Boah! Voll leer hier! Ich hatte noch keine Zeit die Teilelisten aus den EGS-Handbücher zu importieren.
 Jeder OV sollte diese aber haben. Nutze bitte diese in der Zwischenzeit.
+<<<<<<< HEAD
 | Bezeichnung                                                               | BS 1 | BS 2 | BS 3 | BS4 | BS 5 | ∑ BS 1-5 | Knotenpunkte |
 |---------------------------------------------------------------------------|------|------|------|-----|------|----------|------------|
 | Vertikalstiel 100                                                         |2     |      |2     |4    |      |8         | 16           |
@@ -82,6 +94,8 @@ Jeder OV sollte diese aber haben. Nutze bitte diese in der Zwischenzeit.
 | 8 m lang                                                                  |      |      |      |     |      |          |
 | 2 2                                                                       |      |      |      |     |      |          |
 | 49 Zimmermannsgürtel 2 2                                                  |      |      |      |     |      |          |
+=======
+>>>>>>> fb21b28c0e5a6cad6cf18efbc72b1d82f0cb87ba
 
 
 
@@ -103,6 +117,7 @@ Template:
 | Steg freitragend 6m |
 | Steg freitragend 9m |
 > [! WARNING]
+> [!WARNING]
 > **Richtigkeit & Vollständigkeit:** Diese Liste wird manuell gepflegt. Eine Garantie für die Fehlerfreiheit der Mengenangaben kann nicht übernommen werden.
 -->
 
