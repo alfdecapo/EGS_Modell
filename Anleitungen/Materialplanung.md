@@ -18,48 +18,48 @@ aus dem 3D-Drucker kommen:
 Boah! Voll leer hier! Ich hatte noch keine Zeit die Teilelisten aus den EGS-Handbücher zu importieren.
 Jeder OV sollte diese aber haben. Nutze bitte diese in der Zwischenzeit.
 
-| Bezeichnung | BS 1 | BS 2 | BS 3 | BS 4 | BS 5 | ∑ BS 1-5 | BS Bahn | BS MZP|
-|Vertikalstiel 100 |2 |2 |4 |8|
-|Vertikalstiel 150 |2 |2 |4|
-|Vertikal stiel 200 |3 |4 |1 |2 |10|
-|Vertikal stiel 300 |3 |2 |3 |8|
-|Riegel 100 |2 |6 |4 |2 |10 |24|
-|Riegel 150 |2|
-|Riegel 200 |9 |7 |16|
-|Riegel 300 |4 |4 |20 |11 |39|
-|Doppelrohrriegel 150 |4|
-|Doppelrohrriegel 200 |2 |4 |6|
-|Vertikaldiagonale 100 x H |4 |4 |4 |12|
-|Vertikaldiagonale 200 x H |||18 |18|
-|Vertikaldiagonale 300 x H |2 |2 |8 |4 |16|
-|Gewindefußplatte 40 cm |9 |1 |10|
-|Gewindefußplatte 60 cm |2 |4 |6|
-|Gewindefußplatte mit Schäkel |3 |||||3|
-|Anfangsstück |6 |3 |7 |16|
-|Stahlboden 24 mit Rundrohrauflage 100 |1 |1|
-|Stahlboden 24 mit Rundrohrauflage 300 |1 |3 |4 |8|
-|Stahlboden 32 mit Rundrohrauflage 100 |2 |2|
-|Stahlboden 32 mit Rundrohrauflage 300 |2 |8 |8 |18|
-|Durchstiegsboden mit Rundrohrauflage 300 |3 |3|
-|Bordbrett für Rundrohrauflage 100 |4 |4|
-|Bordbrett für Rundrohrauflage 150 |2|
-|Bordbrett für Rundrohrauflage 200 |2 |4 |6|
-|Bordbrett für Rundrohrauflage 300 |2 |4 |6|
-|Dreibockkopfteil |1||||1|
-|Abspannkette für Karabiner |1|||||1|
-|Einsteckring mit Klapp stecker |1 |1|
-|Kopfplatte |2 |2|
-|EGSGewinderohr |2 |2|
-|System freies Gewinderohr 350|1|1|
-|Fahrrolle gebremst |4 |4|
-|Fuß plattenkonsole |6 |6|
-|Fuß plattenadapter |3 |3|
-|Gleisrollen totmanngebremst |||||||2|
-|Gleisrollen ungebremst |||||||2|
-|Scheinwerferadapter |4 |4|
-|Normalkupplungen |2 |4 |6|
-|Drehkupplungen |3 |3 |6|
-
+| Bezeichnung | BS 1 | BS 2 | BS 3 | BS 4 | BS 5 | ∑ BS 1-5 | BS Bahn | BS MZP |
+| - | - | - | - | - | - | - | - | - |
+| Vertikalstiel 100 | 2 | 2 | 4 | 8 |  |  |  |  |
+| Vertikalstiel 150 | 2 | 2 | 4 |  |  |  |  |  |
+| Vertikal stiel 200 | 3 | 4 | 1 | 2 | 10 |  |  |  |
+| Vertikal stiel 300 | 3 | 2 | 3 | 8 |  |  |  |  |
+| Riegel 100 |2 |6 |4 |2 |10 |24|
+| Riegel 150 |2|
+| Riegel 200 |9 |7 |16|
+| Riegel 300 |4 |4 |20 |11 |39|
+| Doppelrohrriegel 150 |4|
+| Doppelrohrriegel 200 |2 |4 |6|
+| Vertikaldiagonale 100 x H |4 |4 |4 |12|
+| Vertikaldiagonale 200 x H |||18 |18|
+| Vertikaldiagonale 300 x H |2 |2 |8 |4 |16|
+| Gewindefußplatte 40 cm |9 |1 |10|
+| Gewindefußplatte 60 cm |2 |4 |6|
+| Gewindefußplatte mit Schäkel |3 |||||3|
+| Anfangsstück |6 |3 |7 |16|
+| Stahlboden 24 mit Rundrohrauflage 100 |1 |1|
+| Stahlboden 24 mit Rundrohrauflage 300 |1 |3 |4 |8|
+| Stahlboden 32 mit Rundrohrauflage 100 |2 |2|
+| Stahlboden 32 mit Rundrohrauflage 300 |2 |8 |8 |18|
+| Durchstiegsboden mit Rundrohrauflage 300 |3 |3|
+| Bordbrett für Rundrohrauflage 100 |4 |4|
+| Bordbrett für Rundrohrauflage 150 |2|
+| Bordbrett für Rundrohrauflage 200 |2 |4 |6|
+| Bordbrett für Rundrohrauflage 300 |2 |4 |6|
+| Dreibockkopfteil |1||||1|
+| Abspannkette für Karabiner |1|||||1|
+| Einsteckring mit Klapp stecker |1 |1|
+| Kopfplatte |2 |2|
+| EGSGewinderohr |2 |2|
+| System freies Gewinderohr 350|1|1|
+| Fahrrolle gebremst |4 |4|
+| Fuß plattenkonsole |6 |6|
+| Fuß plattenadapter |3 |3|
+| Gleisrollen totmanngebremst |||||||2|
+| Gleisrollen ungebremst |||||||2|
+| Scheinwerferadapter | 4 | 4 |
+| Normalkupplungen | 2 | 4 | 6 |
+| Drehkupplungen | 3 | 3 | 6 |
 
 <!--
 Template:
