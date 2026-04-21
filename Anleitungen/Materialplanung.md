@@ -18,7 +18,7 @@ aus dem 3D-Drucker kommen:
 Boah! Voll leer hier! Ich hatte noch keine Zeit die Teilelisten aus den EGS-Handbücher zu importieren.
 Jeder OV sollte diese aber haben. Nutze bitte diese in der Zwischenzeit.
 
-|Bezeichnung |BS 1 |BS 2 |BS 3 |BS 4 |BS 5 |∑ BS 1-5 |BS Bahn |BS MZP|
+| Bezeichnung | BS 1 | BS 2 | BS 3 | BS 4 | BS 5 | ∑ BS 1-5 | BS Bahn | BS MZP|
 |Vertikalstiel 100 |2 |2 |4 |8|
 |Vertikalstiel 150 |2 |2 |4|
 |Vertikal stiel 200 |3 |4 |1 |2 |10|
