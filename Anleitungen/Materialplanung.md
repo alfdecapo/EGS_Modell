@@ -35,32 +35,38 @@ Jeder OV sollte diese aber haben. Nutze bitte diese in der Zwischenzeit.
 | Vertikalstiel 150                                                         |2     |      |      |     |2     |4         | 12           |
 | Vertikalstiel 200                                                         |3     |4     |      |1    |2     |10        | 40           |
 | Vertikalstiel 300                                                         |      |      |3     |2    |3     |8         | 48   |
-|                                                                           |      |      |      |     |      |          |116|
+|                                                                           |      |      |      |     |      |          |#116|
 
-
-
+| Bezeichnung                                                               | BS 1 | BS 2 | BS 3 | BS4 | BS 5 | ∑ BS 1-5 | Knotenpunkte |
+|---------------------------------------------------------------------------|------|------|------|-----|------|----------|------------|
 | Riegel 100                                                                |2     |6     |4     |2    |10    |24        |
 | Riegel 150                                                                |      |      |      |     |      |          |
 | Riegel 200 9 7 16                                                         |      |      |9     |7    |      |16        |
 | Riegel 300 4 4 20 11 39                                                   |      |      |      |     |      |          |
 | Doppelrohrriegel 150 4                                                    |      |      |      |     |      |          |
 | Doppelrohrriegel 200 2 4 6                                                |      |      |      |     |      |          |
+
+| Bezeichnung                                                               | BS 1 | BS 2 | BS 3 | BS4 | BS 5 | ∑ BS 1-5 | Knotenpunkte |
+|---------------------------------------------------------------------------|------|------|------|-----|------|----------|------------|
 | Vertikaldiagonale 100 x H 4 4 4 12                                        |      |      |      |     |      |          |
 | Vertikaldiagonale 200 x H 18 18                                           |      |      |      |     |      |          |
 | Vertikaldiagonale 300 x H 2 2 8 4 16                                      |      |      |      |     |      |          |
+
+| Bezeichnung                                                               | BS 1 | BS 2 | BS 3 | BS4 | BS 5 | ∑ BS 1-5 | Knotenpunkte |
+|---------------------------------------------------------------------------|------|------|------|-----|------|----------|------------|
 | Gewindefußplatte 40 cm 9 1 10                                             |      |      |      |     |      |          |
 | Gewindefußplatte 60 cm 2 4 6                                              |      |      |      |     |      |          |
 | Gewindefußplatte mit Schäkel 3 3                                          |      |      |      |     |      |          |
 | Anfangsstück 6 3 7 16                                                     |      |      |      |     |      |          |
+
 | Stahlboden 24 mit Rundrohrauflage 100 1 1                                 |      |      |      |     |      |          |
-| Stahlboden 24 mit Rundrohrauflage 300 1 3 4 8                            |      |      |      |     |      |          |
-| Stahlboden 32 mit Rundrohrauflage 100 2 2                            |      |      |      |     |      |          |
-| Stahlboden 32 mit Rundrohrauflage 300 2 8 8 18                                               |      |      |      |     |      |          |
-| Durchstiegsboden mit Rundrohraufnahme 300 |      |      |      |     | 3    |     3   |
-| 23 Bordbrett für Rundrohrauf                                              |      |      |      |     |      |          |
-| nahme 100 4 4                                                             |      |      |      |     |      |          |
-| 24 Bordbrett für Rundrohrauf                                              |      |      |      |     |      |          |
-| nahme 150 2                                                               |      |      |      |     |      |          |
+| Stahlboden 24 mit Rundrohrauflage 300 1 3 4 8                             |      |      |      |     |      |          |
+| Stahlboden 32 mit Rundrohrauflage 100 2 2                                 |      |      |      |     |      |          |
+| Stahlboden 32 mit Rundrohrauflage 300 2 8 8 18                            |      |      |      |     |      |          |
+| Durchstiegsboden mit Rundrohraufnahme 300                                 |      |      |      |     | 3    |     3   |
+| Bordbrett für Rundrohraufnahme 100 4 4                                    |      |      |      |     |      |          |
+| Bordbrett für Rundrohraufnahme 150 2                                      |      |      |      |     |      |          |
+|                                                                           |      |      |      |     |      |          |
 | 25 Bordbrett für Rundrohrauf                                              |      |      |      |     |      |          |
 | nahme 200 2 4 6                                                           |      |      |      |     |      |          |
 | 26 Bordbrett für Rundrohrauf                                              |      |      |      |     |      |          |
