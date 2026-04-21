@@ -1,5 +1,7 @@
 # Zuammbauanleitung Vertikalstangen
 
+![Bild mit dem Zusammenbau einer Seite der Diagonalen und Beschriftung der Teile](../Bilder/Vertikale-Gesammtansicht.PNG)
+
 ## Variationen
 Für die Stückliste der einzelnen Variationen siehe [hier](Materialplanung.md#sonstige).
 Zur Vereinfachung werden hier nur Rundstab, Flansch und Adapter verwendet.
