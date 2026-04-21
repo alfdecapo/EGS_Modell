@@ -37,10 +37,9 @@ Jeder OV sollte diese aber haben. Nutze bitte diese in der Zwischenzeit.
 | Gewindefußplatte mit Schäkel 3 3                                          |      |      |      |     |      |          |
 | Anfangsstück 6 3 7 16                                                     |      |      |      |     |      |          |
 | Stahlboden 24 mit Rundrohrauflage 100 1 1                                 |      |      |      |     |      |          |
-| 19 Stahl boden 24 mit Rundrohrauflage 300 1 3 4 8                         |      |      |      |     |      |          |
-| 20 Stahl boden 32 mit Rund                                                |      |      |      |     |      |          |
-| rohrauflage 100 2 2                                                       |      |      |      |     |      |          |
-| 21 Stahl boden 32 mit Rund                                                |      |      |      |     |      |          |
+| Stahlboden 24 mit Rundrohrauflage 300 1 3 4 8                            |      |      |      |     |      |          |
+| Stahlboden 32 mit Rund rohrauflage 100 2 2                            |      |      |      |     |      |          |
+| Stahlboden 32 mit Rund                                                |      |      |      |     |      |          |
 | rohrauflage 300 2 8 8 18                                                  |      |      |      |     |      |          |
 | 22 Durchstiegsboden mit Rund                                              |      |      |      |     |      |          |
 | rohraufnahme 300 3 3                                                      |      |      |      |     |      |          |
