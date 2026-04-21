@@ -3,7 +3,7 @@
 |  | Dateiname | Bezeichnung der Anleitung | Anleitungen |
 | - | - | - | - |
 | [![Bild](Bilder/Knotenpunkt.png)](Drucker-Dateien/Flansch-1zu7.7.STL) | [Flansch 1zu7.7](Drucker-Dateien/Flansch-1zu7.7.STL) | Flansch | [Vertikalstangen](Anleitungen/ZusammenbauVertikale.md)<br>[Füße und Anfangstücke](Anleitungen/ZusammenbauFuss.md) |
-| [![Bild](Bilder/Gelenk_Diagonale.png)](Drucker-Dateien/Diagonale-Gelenk.STL) | [Diagonale Gelenk](Drucker-Dateien/Diagonale-Gelenk.STL) | Glenk | [Diagonalstangen](Anleitungen/ZusammenbauDiagonale.md) |
+| [![Bild](Bilder/Gelenk_Diagonale.png)](Drucker-Dateien/Diagonale-Gelenk.STL) | [Diagonale Gelenk](Drucker-Dateien/Diagonale-Gelenk.STL) | Gelenk | [Diagonalstangen](Anleitungen/ZusammenbauDiagonale.md) |
 | [![Bild](Bilder/Keilschloss_Diagonale.png)](Drucker-Dateien/Diagonale-Keilschloss.STL) | [Diagonale Keilschloss](Drucker-Dateien/Diagonale-Keilschloss.STL) | Keilschloss | [Diagonalstangen](Anleitungen/ZusammenbauDiagonale.md) |
 | [![Bild](Bilder/Keilschloss.png)](Drucker-Dateien/Horizontale-Keilschloss.STL) | [Horizontale Keilschloss](Drucker-Dateien/Horizontale-Keilschloss.STL) | Keilschloss | [Riegel](Anleitungen/ZusammenbauRiegel.md) |
 | [![Bild]()](Drucker-Dateien/Vertikalen-Verbinder.STL) | [Vertikalen Verbinder](Drucker-Dateien/Vertikalen-Verbinder.STL) | Adapter | [Vertikalstangen](Anleitungen/ZusammenbauVertikale.md) |
