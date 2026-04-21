@@ -17,13 +17,13 @@ aus dem 3D-Drucker kommen:
 ## Bausätze
 Boah! Voll leer hier! Ich hatte noch keine Zeit die Teilelisten aus den EGS-Handbücher zu importieren.
 Jeder OV sollte diese aber haben. Nutze bitte diese in der Zwischenzeit.
-| Bezeichnung                                                               | BS 1 | BS 2 | BS 3 | BS4 | BS 5 | ∑ BS 1-5 |Knotenpunkte|
+| Bezeichnung                                                               | BS 1 | BS 2 | BS 3 | BS4 | BS 5 | ∑ BS 1-5 | Knotenpunkte |
 |---------------------------------------------------------------------------|------|------|------|-----|------|----------|------------|
-| Vertikalstiel 100                                                         |2     |      |2     |4    |      |8         |16|
-| Vertikalstiel 150                                                         |2     |      |      |     |2     |4         |12|
-| Vertikalstiel 200                                                         |3     |4     |      |1    |2     |10        |40|
-| Vertikalstiel 300                                                         |      |      |3     |2    |3     |8         |48|
-|                                                                           |      |      |      |     |      |          |#116|
+| Vertikalstiel 100                                                         |2     |      |2     |4    |      |8         | 16           |
+| Vertikalstiel 150                                                         |2     |      |      |     |2     |4         | 12           |
+| Vertikalstiel 200                                                         |3     |4     |      |1    |2     |10        | 40           |
+| Vertikalstiel 300                                                         |      |      |3     |2    |3     |8         | 48   |
+|                                                                           |      |      |      |     |      |          |116|
 
 
 
