@@ -3,7 +3,9 @@
 
 ## Variationen
 Für die Stückliste der einzelnen Variationen siehe [hier](Materialplanung.md#riegel).
-Zur Vereinfachung werden hier nur Rundstab und Keilschloss verwendet
+Zur Vereinfachung werden hier nur Rundstab und Keilschloss verwendet.
+
+👉 **[Hier geht es zur separaten Druckteile-Seite](../TeileUbersicht.md)**
 
 ## 🛠 Zusammenbau
 

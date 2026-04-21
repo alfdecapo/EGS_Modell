@@ -7,6 +7,8 @@ Für das Anfangstück wird der letzte Schritt übersprungen.
 Für die Stückliste der einzelnen Variationen siehe [hier](Materialplanung.md#sonstige).
 Zur Vereinfachung werden hier nur Rundstab, Flansch, Adapter und Fuß verwendet.
 
+👉 **[Hier geht es zur separaten Druckteile-Seite](../TeileUbersicht.md)**
+
 ## 🛠 Zusammenbau
 ![Explosionsdarstellung des Fußes um den Ablauf des Zusammenbaues sehen zu können](../Bilder/Fuss-Explosion.PNG)
 

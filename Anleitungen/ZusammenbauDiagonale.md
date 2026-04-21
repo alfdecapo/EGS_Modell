@@ -6,7 +6,9 @@ Sobald die Schraube getestet ist wir die Anleitung umgeschrieben
 
 ## Variationen
 Für die Stückliste der einzelnen Variationen siehe [hier](Materialplanung.md#diagonalen).
-Zur Vereinfachung werden hier nur Rundstab, Nagel, Gelenk und Keilschloss verwendet
+Zur Vereinfachung werden hier nur Rundstab, Nagel, Gelenk und Keilschloss verwendet.
+
+👉 **[Hier geht es zur separaten Druckteile-Seite](../TeileUbersicht.md)**
 
 ## 🛠 Zusammenbau
 

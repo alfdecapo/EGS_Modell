@@ -4,6 +4,8 @@
 Für die Stückliste der einzelnen Variationen siehe [hier](Materialplanung.md#sonstige).
 Zur Vereinfachung werden hier nur Rundstab, Flansch und Adapter verwendet.
 
+👉 **[Hier geht es zur separaten Druckteile-Seite](../TeileUbersicht.md)**
+
 ## 🛠 Zusammenbau
 * Länge den Rundstab auf die benötiget Länge ab
 	* 1,0 m -> 129 mm

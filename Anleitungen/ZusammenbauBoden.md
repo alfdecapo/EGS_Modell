@@ -6,7 +6,9 @@
 
 ## Variationen
 Für die Stückliste der einzelnen Variationen siehe [hier](Materialplanung.md#boden).
-Zur Vereinfachung werden hier nur Adapter und Holzplatte verwendet
+Zur Vereinfachung werden hier nur Adapter und Holzplatte verwendet.
+
+👉 **[Hier geht es zur separaten Druckteile-Seite](../TeileUbersicht.md)**
 
 ## 🛠 Zusammenbau
 * Schneide die Holzplatte auf die gewünschten Maße zu.

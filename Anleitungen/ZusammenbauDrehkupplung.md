@@ -3,7 +3,9 @@ Es ewerden zwei M6 Schrauben benötigt um die Kraft an die richtigen Stellen zu 
 
 ## Variationen
 Für die Stückliste der einzelnen Variationen siehe [hier](Materialplanung.md#sonstige).
-Zur Vereinfachung werden hier nur Nagel, Lose und Klemme verwendet
+Zur Vereinfachung werden hier nur Nagel, Lose und Klemme verwendet.
+
+👉 **[Hier geht es zur separaten Druckteile-Seite](../TeileUbersicht.md)**
 
 ## 🛠 Zusammenbau
 * Verbingung durch Nagel
