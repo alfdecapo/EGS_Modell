@@ -3,7 +3,7 @@
 EGS-Bausätze sind oft größer als man glaubt. Je nachdem welchen Bausatz du umsetzten möchtest 
 werden viele Stangen, und somit viele Zukaufteile, benötigt. Die Teile für den Steg - freitragend 9m 
 haben in meinem Fall ca. 120€ gekostet. Mache dir daher vorher Gedanken wieviel du Ausgeben möchtest
-und welchen Verwendungszweck du hast (Übungsmodell - viele Ersatzteile / Ausstellungsstück).
+und welchen Verwendungszweck du hast (Übungsmodell - viele Ersatzteile vs. Ausstellungsstück).
 
 ## Inhaltsverzeichnis
 * [Nicht gedruckte Teile](#nicht-gedruckte-teile)
@@ -22,7 +22,7 @@ Zudem sind in der größe Holz oder Messing stabiler als gedruckte Teile. Nachfo
 aus dem 3D-Drucker kommen:
 * Bucherundstab 6mm (Alternativ Messingrohr)
 * Holzplatte 8mm dick
-* Nagel D2x45 (Alternativ Blechschraube M2x6mm)
+* Nagel D2x45 (Alternativ: Schraube M2x8mm mit Linsenkopf)
 * Bastelkleber
 
 ## Bausätze
