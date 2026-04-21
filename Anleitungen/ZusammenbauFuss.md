@@ -1,14 +1,14 @@
 # Zuammbauanleitung Standfuß und Anfangsstück
 Die Teile sind so klein, dass sie in ein Objekt vereint wurden.
 Für das Anfangstück wird der letzte Schritt übersprungen.
-![Bild mit dem Zusammenbau von Fuß und Anfangstück mit Beschriftung der Teile](../Bilder/FussUndAnfangsstuck-Gesammtansicht.png)
+![Bild mit dem Zusammenbau von Fuß und Anfangstück mit Beschriftung der Teile](../Bilder/FussUndAnfangsstuck-Gesammtansicht.PNG)
 
 ## Variationen
 Für die Stückliste der einzelnen Variationen siehe [hier](Materialplanung.md#sonstige).
 Zur Vereinfachung werden hier nur Rundstab, Flansch, Adapter und Fuß verwendet.
 
 ## 🛠 Zusammenbau
-![Explosionsdarstellung des Fußes um den Ablauf des Zusammenbaues sehen zu können](../Bilder/Fuss-Explosion.png)
+![Explosionsdarstellung des Fußes um den Ablauf des Zusammenbaues sehen zu können](../Bilder/Fuss-Explosion.PNG)
 
 * Länge den Rundstab auf 44mm Länge ab.
 * Markiere die Seite die unten sein soll.
