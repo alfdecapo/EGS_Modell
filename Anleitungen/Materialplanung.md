@@ -17,15 +17,19 @@ aus dem 3D-Drucker kommen:
 ## Bausätze
 Boah! Voll leer hier! Ich hatte noch keine Zeit die Teilelisten aus den EGS-Handbücher zu importieren.
 Jeder OV sollte diese aber haben. Nutze bitte diese in der Zwischenzeit.
-| Bezeichnung                                                               | BS 1 | BS 2 | BS 3 | BS4 | BS 5 | ∑ BS 1-5 |
-|---------------------------------------------------------------------------|------|------|------|-----|------|----------|
-| Vertikalstiel 100 2 2 4 8                                                 |      |      |      |     |      |          |
-| Vertikalstiel 150 2 2 4                                                   |      |      |      |     |      |          |
-| Vertikalstiel 200 3 4 1 2 10                                              |      |      |      |     |      |          |
-| Vertikalstiel 300 3 2 3 8                                                 |      |      |      |     |      |          |
-| Riegel 100 2 6 4 2 10 24                                                  |      |      |      |     |      |          |
-| Riegel 150 2                                                              |      |      |      |     |      |          |
-| Riegel 200 9 7 16                                                         |      |      |      |     |      |          |
+| Bezeichnung                                                               | BS 1 | BS 2 | BS 3 | BS4 | BS 5 | ∑ BS 1-5 |Knotenpunkte|
+|---------------------------------------------------------------------------|------|------|------|-----|------|----------|------------|
+| Vertikalstiel 100                                                         |2     |      |2     |4    |      |8         |16|
+| Vertikalstiel 150                                                         |2     |      |      |     |2     |4         |12|
+| Vertikalstiel 200                                                         |3     |4     |      |1    |2     |10        |40|
+| Vertikalstiel 300                                                         |      |      |3     |2    |3     |8         |48|
+|                                                                           |      |      |      |     |      |          |#116|
+
+
+
+| Riegel 100                                                                |2     |6     |4     |2    |10    |24        |
+| Riegel 150                                                                |      |      |      |     |      |          |
+| Riegel 200 9 7 16                                                         |      |      |9     |7    |      |16        |
 | Riegel 300 4 4 20 11 39                                                   |      |      |      |     |      |          |
 | Doppelrohrriegel 150 4                                                    |      |      |      |     |      |          |
 | Doppelrohrriegel 200 2 4 6                                                |      |      |      |     |      |          |
@@ -38,11 +42,9 @@ Jeder OV sollte diese aber haben. Nutze bitte diese in der Zwischenzeit.
 | Anfangsstück 6 3 7 16                                                     |      |      |      |     |      |          |
 | Stahlboden 24 mit Rundrohrauflage 100 1 1                                 |      |      |      |     |      |          |
 | Stahlboden 24 mit Rundrohrauflage 300 1 3 4 8                            |      |      |      |     |      |          |
-| Stahlboden 32 mit Rund rohrauflage 100 2 2                            |      |      |      |     |      |          |
-| Stahlboden 32 mit Rund                                                |      |      |      |     |      |          |
-| rohrauflage 300 2 8 8 18                                                  |      |      |      |     |      |          |
-| 22 Durchstiegsboden mit Rund                                              |      |      |      |     |      |          |
-| rohraufnahme 300 3 3                                                      |      |      |      |     |      |          |
+| Stahlboden 32 mit Rundrohrauflage 100 2 2                            |      |      |      |     |      |          |
+| Stahlboden 32 mit Rundrohrauflage 300 2 8 8 18                                               |      |      |      |     |      |          |
+| Durchstiegsboden mit Rundrohraufnahme 300 |      |      |      |     | 3    |     3   |
 | 23 Bordbrett für Rundrohrauf                                              |      |      |      |     |      |          |
 | nahme 100 4 4                                                             |      |      |      |     |      |          |
 | 24 Bordbrett für Rundrohrauf                                              |      |      |      |     |      |          |
