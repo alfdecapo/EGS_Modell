@@ -1,7 +1,7 @@
 # Übersicht über die Druck-Teile
 
 |  | Dateiname | Bezeichnung der Anleitung | Anleitungen |
-| - | - | - |
+| - | - | - | - |
 | [![Bild]()](Drucker-Dateien/Flansch-1zu7.7.STL) | [Flansch 1zu7.7](Drucker-Dateien/Flansch-1zu7.7.STL) | Flansch | [Vertikalstangen](Anleitungen/ZusammenbauVertikale.md)<br>[Füße und Anfangstücke](Anleitungen/ZusammenbauFuss.md) |
 | [![Bild]()](Drucker-Dateien/Diagonale-Gelenk.STL) | [Diagonale Gelenk](Drucker-Dateien/Diagonale-Gelenk.STL) | Glenk | [Diagonalstangen](Anleitungen/ZusammenbauDiagonale.md) |
 | [![Bild]()](Drucker-Dateien/Diagonale-Keilschloss.STL) | [Diagonale Keilschloss](Drucker-Dateien/Diagonale-Keilschloss.STL) | Keilschloss | [Diagonalstangen](Anleitungen/ZusammenbauDiagonale.md) |
