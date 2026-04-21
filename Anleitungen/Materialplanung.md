@@ -63,15 +63,12 @@ Jeder OV sollte diese aber haben. Nutze bitte diese in der Zwischenzeit.
 | Stahlboden 24 mit Rundrohrauflage 300 1 3 4 8                             |      |      |      |     |      |          |
 | Stahlboden 32 mit Rundrohrauflage 100 2 2                                 |      |      |      |     |      |          |
 | Stahlboden 32 mit Rundrohrauflage 300 2 8 8 18                            |      |      |      |     |      |          |
-| Durchstiegsboden mit Rundrohraufnahme 300                                 |      |      |      |     | 3    |     3   |
+| Durchstiegsboden mit Rundrohraufnahme 300                                 |      |      |      |     | 3    |     3    |
 | Bordbrett für Rundrohraufnahme 100 4 4                                    |      |      |      |     |      |          |
 | Bordbrett für Rundrohraufnahme 150 2                                      |      |      |      |     |      |          |
-|                                                                           |      |      |      |     |      |          |
-| 25 Bordbrett für Rundrohrauf                                              |      |      |      |     |      |          |
-| nahme 200 2 4 6                                                           |      |      |      |     |      |          |
-| 26 Bordbrett für Rundrohrauf                                              |      |      |      |     |      |          |
-| nahme 300 2 4 6                                                           |      |      |      |     |      |          |
-| 27 Dreibockkopfteil 1 1                                                   |      |      |      |     |      |          |
+| Bordbrett für Rundrohraufnahme 200 2 4 6                                  |      |      |      |     |      |          |
+| Bordbrett für Rundrohraufnahme 300 2 4 6                                  |      |      |      |     |      |          |
+| Dreibockkopfteil 1 1                                                      |      |      |      |     |      |          |
 | 28 Abspannkette für Karabiner 1 1                                         |      |      |      |     |      |          |
 | 29 Einsteckring mit Klapp stecker 1 1                                     |      |      |      |     |      |          |
 | 30 Kopfplatte 2 2                                                         |      |      |      |     |      |          |
@@ -85,22 +82,7 @@ Jeder OV sollte diese aber haben. Nutze bitte diese in der Zwischenzeit.
 | 38 Scheinwerferadapter 4 4                                                |      |      |      |     |      |          |
 | 39 Normalkupplungen 2 4 6                                                 |      |      |      |     |      |          |
 | 40 Drehkupplungen 3 3 6                                                   |      |      |      |     |      |          |
-| 41 Klapp stecker 8 8                                                      |      |      |      |     |      |          |
-| 42 Spezialschrauben mit                                                   |      |      |      |     |      |          |
-| Sicher ungsmutter 20 20                                                   |      |      |      |     |      |          |
-| 43 Mehrzweckplane 2                                                       |      |      |      |     |      |          |
-| 44 Deckel für MZP 2                                                       |      |      |      |     |      |          |
-| 45 Reparaturflicken 1                                                     |      |      |      |     |      |          |
-| 46 Dreh momentschlüssel 2 2                                               |      |      |      |     |      |          |
-| 47 Zurrgurt einteilig 200 daN,                                            |      |      |      |     |      |          |
-| 35 mm breit, 6 m lang 2 2                                                 |      |      |      |     |      |          |
-| 48                                                                        |      |      |      |     |      |          |
-| Zurrgurt zweiteilig, mit Spitz                                            |      |      |      |     |      |          |
-| haken, 2000 daN, 50 mm breit,                                             |      |      |      |     |      |          |
-| 8 m lang                                                                  |      |      |      |     |      |          |
-| 2 2                                                                       |      |      |      |     |      |          |
-| 49 Zimmermannsgürtel 2 2                                                  |      |      |      |     |      |          |
-=======
+
 
 
 <!--
