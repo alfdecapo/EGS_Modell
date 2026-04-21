@@ -5,6 +5,17 @@ werden viele Stangen, und somit viele Zukaufteile, benötigt. Die Teile für den
 haben in meinem Fall ca. 120€ gekostet. Mache dir daher vorher Gedanken wieviel du Ausgeben möchtest
 und welchen Verwendungszweck du hast (Übungsmodell - viele Ersatzteile / Ausstellungsstück).
 
+## Inhaltsverzeichnis
+* [Nicht gedruckte Teile](#nicht-gedruckte-teile)
+* [Bausätze](#bausatze)
+* [Gerüste]
+* [Einzelteile](#einzeilteile)
+	* [Vertikalstiele](#vertikalstiele)
+	* [Riegel (Horizontalen)](#riegel-horizontalen)
+	* [Diagonalen](#diagonalen)
+	* [Böden](#boden)
+	* [Sonstige](#sonstige)
+
 ## Nicht gedruckte Teile
 Selbst in dem kleinen Maßstab passen die meisten Stangen nicht in das Druckvolumen üblicher 3D-Drucker.
 Zudem sind in der größe Holz oder Messing stabiler als gedruckte Teile. Nachfolgend die Teile die nicht 
@@ -61,26 +72,8 @@ Jeder OV sollte diese aber haben. Nutze bitte diese in der Zwischenzeit.
 | Normalkupplungen | 2 | 4 | 6 | | | | | |
 | Drehkupplungen | 3 | 3 | 6 | | | | | |
 
-<!--
-Template:
-
-|  | Vert<br>1,0 | Vert<br>1,5 | Vert<br>2,0 | Vert<br>2,5 | Vert<br>3,0 | Rie<br>1 | Rie<br>2 | Rie<br>3 | Dia<br>2x1 | Dia<br>2x2 | Dia<br>2x3 | Bod<br>bx3 | Bod<br>bx1 | Bod<br>sx3 | Bod<br>sx1 | Fuß | Anf | Dre |
-| - | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: |
-| Bodengruppe 1x3m |  |  |  |  |  | 2x |  | 2x |  |  |  | 2x | 1x |  |  | 4x |  |  |
-| Arbeitsplattform |  |  |
-| Lastausleger |  |  |
-| Ausichtsplattform |  |  |
-| Schnellretgerüst |  |  |
-| Ausstiegshilfe | 
-| Dekonschläuse |
-| Übungsturm klein |
-| Übungsturm groß |
-| Trümmersteg |
-| Steg freitragend 6m |
-| Steg freitragend 9m |
-> [! WARNING]
+> [!WARNING]
 > **Richtigkeit & Vollständigkeit:** Diese Liste wird manuell gepflegt. Eine Garantie für die Fehlerfreiheit der Mengenangaben kann nicht übernommen werden.
--->
 
 ## Einzelteile
 ### Vertikalstiele
