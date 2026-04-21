@@ -29,28 +29,29 @@ aus dem 3D-Drucker kommen:
 Boah! Voll leer hier! Ich hatte noch keine Zeit die Teilelisten aus den EGS-Handbücher zu importieren.
 Jeder OV sollte diese aber haben. Nutze bitte diese in der Zwischenzeit.
 <<<<<<< HEAD
-| Bezeichnung                                                               | BS 1 | BS 2 | BS 3 | BS4 | BS 5 | ∑ BS 1-5 | Knotenpunkte |
-|---------------------------------------------------------------------------|------|------|------|-----|------|----------|------------|
-| Vertikalstiel 100                                                         |2     |      |2     |4    |      |8         | 16           |
-| Vertikalstiel 150                                                         |2     |      |      |     |2     |4         | 12           |
-| Vertikalstiel 200                                                         |3     |4     |      |1    |2     |10        | 40           |
-| Vertikalstiel 300                                                         |      |      |3     |2    |3     |8         | 48   |
-|                                                                           |      |      |      |     |      |          |#116|
+| Bezeichnung       | BS 1 | BS 2 | BS 3 | BS4 | BS 5 | ∑ BS 1-5 | Knotenpunkte |
+|-------------------|------|------|------|-----|------|----------|--------------|
+| Vertikalstiel 100 |2     |      |2     |4    |      |8         | 16           |
+| Vertikalstiel 150 |2     |      |      |     |2     |4         | 12           |
+| Vertikalstiel 200 |3     |4     |      |1    |2     |10        | 40           |
+| Vertikalstiel 300 |      |      |3     |2    |3     |8         | 48           |
+|                   |      |      |      |     |      |          | 116          |
 
-| Bezeichnung                                                               | BS 1 | BS 2 | BS 3 | BS4 | BS 5 | ∑ BS 1-5 | Knotenpunkte |
-|---------------------------------------------------------------------------|------|------|------|-----|------|----------|------------|
-| Riegel 100                                                                |2     |6     |4     |2    |10    |24        |
-| Riegel 150                                                                |      |      |      |     |      |          |
-| Riegel 200 9 7 16                                                         |      |      |9     |7    |      |16        |
-| Riegel 300 4 4 20 11 39                                                   |      |      |      |     |      |          |
-| Doppelrohrriegel 150 4                                                    |      |      |      |     |      |          |
-| Doppelrohrriegel 200 2 4 6                                                |      |      |      |     |      |          |
+| Bezeichnung         | BS 1 | BS 2 | BS 3 | BS4 | BS 5 | ∑ BS 1-5 | Keilschlösser |
+|---------------------|------|------|------|-----|------|----------|---------------|
+| Riegel 100          |2     |6     |4     |2    |10    |24        |48             |
+| Riegel 150          |      |      |      |     |      |          |               |
+| Riegel 200          |      |      |9     |7    |      |16        |32             |
+| Riegel 300          |      |4     |4     |20   |11    |39        |78             |
+| Doppelrohrriegel 150|      |      |      |     |      |          |               |
+| Doppelrohrriegel 200|      |      |2     |4    |      |6         |               |
+|                     |      |      |      |     |      |          |158            |
 
-| Bezeichnung                                                               | BS 1 | BS 2 | BS 3 | BS4 | BS 5 | ∑ BS 1-5 | Knotenpunkte |
-|---------------------------------------------------------------------------|------|------|------|-----|------|----------|------------|
-| Vertikaldiagonale 100 x H 4 4 4 12                                        |      |      |      |     |      |          |
-| Vertikaldiagonale 200 x H 18 18                                           |      |      |      |     |      |          |
-| Vertikaldiagonale 300 x H 2 2 8 4 16                                      |      |      |      |     |      |          |
+| Bezeichnung               | BS 1 | BS 2 | BS 3 | BS4 | BS 5 | ∑ BS 1-5 | Gelenke |
+|---------------------------|------|------|------|-----|------|----------|------------|
+| Vertikaldiagonale 100 x H |      |4     |4     |     |4     |12        |24          |
+| Vertikaldiagonale 200 x H |      |      |18    |     |      |18        |36          |
+| Vertikaldiagonale 300 x H |      |2     |2     |8    |4     |16        |32
 
 | Bezeichnung                                                               | BS 1 | BS 2 | BS 3 | BS4 | BS 5 | ∑ BS 1-5 | Knotenpunkte |
 |---------------------------------------------------------------------------|------|------|------|-----|------|----------|------------|
@@ -59,30 +60,33 @@ Jeder OV sollte diese aber haben. Nutze bitte diese in der Zwischenzeit.
 | Gewindefußplatte mit Schäkel 3 3                                          |      |      |      |     |      |          |
 | Anfangsstück 6 3 7 16                                                     |      |      |      |     |      |          |
 
+| Bezeichnung                                                               | BS 1 | BS 2 | BS 3 | BS4 | BS 5 | ∑ BS 1-5 | Knotenpunkte |
+|---------------------------------------------------------------------------|------|------|------|-----|------|----------|------------|
 | Stahlboden 24 mit Rundrohrauflage 100 1 1                                 |      |      |      |     |      |          |
 | Stahlboden 24 mit Rundrohrauflage 300 1 3 4 8                             |      |      |      |     |      |          |
 | Stahlboden 32 mit Rundrohrauflage 100 2 2                                 |      |      |      |     |      |          |
 | Stahlboden 32 mit Rundrohrauflage 300 2 8 8 18                            |      |      |      |     |      |          |
 | Durchstiegsboden mit Rundrohraufnahme 300                                 |      |      |      |     | 3    |     3    |
-| Bordbrett für Rundrohraufnahme 100 4 4                                    |      |      |      |     |      |          |
-| Bordbrett für Rundrohraufnahme 150 2                                      |      |      |      |     |      |          |
-| Bordbrett für Rundrohraufnahme 200 2 4 6                                  |      |      |      |     |      |          |
-| Bordbrett für Rundrohraufnahme 300 2 4 6                                  |      |      |      |     |      |          |
-| Dreibockkopfteil 1 1                                                      |      |      |      |     |      |          |
-| 28 Abspannkette für Karabiner 1 1                                         |      |      |      |     |      |          |
-| 29 Einsteckring mit Klapp stecker 1 1                                     |      |      |      |     |      |          |
-| 30 Kopfplatte 2 2                                                         |      |      |      |     |      |          |
-| 31 EGSGewinderohr 2 2                                                     |      |      |      |     |      |          |
-| 32 System freies Gewinderohr 350 1 1                                      |      |      |      |     |      |          |
-| 33 Fahrrolle gebremst 4 4                                                 |      |      |      |     |      |          |
-| 34 Fuß plattenkonsole 6 6                                                 |      |      |      |     |      |          |
-| 35 Fuß plattenadapter 3 3                                                 |      |      |      |     |      |          |
-| 36 Gleisrollen totmanngebremst 2                                          |      |      |      |     |      |          |
-| 37 Gleisrollen ungebremst 2                                               |      |      |      |     |      |          |
-| 38 Scheinwerferadapter 4 4                                                |      |      |      |     |      |          |
-| 39 Normalkupplungen 2 4 6                                                 |      |      |      |     |      |          |
-| 40 Drehkupplungen 3 3 6                                                   |      |      |      |     |      |          |
 
+<!--| Bordbrett für Rundrohraufnahme 100 4 4                                    |      |      |      |     |      |          |
+>| Bordbrett für Rundrohraufnahme 150 2                                      |      |      |      |     |      |          |
+>| Bordbrett für Rundrohraufnahme 200 2 4 6                                  |      |      |      |     |      |          |
+>| Bordbrett für Rundrohraufnahme 300 2 4 6                                  |      |      |      |     |      |          |
+>| Dreibockkopfteil 1 1                                                      |      |      |      |     |      |          |
+>| 28 Abspannkette für Karabiner 1 1                                         |      |      |      |     |      |          |
+>| 29 Einsteckring mit Klapp stecker 1 1                                     |      |      |      |     |      |          |
+>| 30 Kopfplatte 2 2                                                         |      |      |      |     |      |          |
+>| 31 EGSGewinderohr 2 2                                                     |      |      |      |     |      |          |
+>| 32 System freies Gewinderohr 350 1 1                                      |      |      |      |     |      |          |
+>| 33 Fahrrolle gebremst 4 4                                                 |      |      |      |     |      |          |
+>| 34 Fuß plattenkonsole 6 6                                                 |      |      |      |     |      |          |
+>| 35 Fuß plattenadapter 3 3                                                 |      |      |      |     |      |          |
+>| 36 Gleisrollen totmanngebremst 2                                          |      |      |      |     |      |          |
+>| 37 Gleisrollen ungebremst 2                                               |      |      |      |     |      |          |
+>| 38 Scheinwerferadapter 4 4                                                |      |      |      |     |      |          |
+>| 39 Normalkupplungen 2 4 6                                                 |      |      |      |     |      |          |
+>| 40 Drehkupplungen 3 3 6                                                   |      |      |      |     |      |          |
+-->
 
 
 <!--
