@@ -95,27 +95,9 @@ Jeder OV sollte diese aber haben. Nutze bitte diese in der Zwischenzeit.
 | 2 2                                                                       |      |      |      |     |      |          |
 | 49 Zimmermannsgürtel 2 2                                                  |      |      |      |     |      |          |
 =======
->>>>>>> fb21b28c0e5a6cad6cf18efbc72b1d82f0cb87ba
-
 
 
 <!--
-Template:
-
-|  | Vert<br>1,0 | Vert<br>1,5 | Vert<br>2,0 | Vert<br>2,5 | Vert<br>3,0 | Rie<br>1 | Rie<br>2 | Rie<br>3 | Dia<br>2x1 | Dia<br>2x2 | Dia<br>2x3 | Bod<br>bx3 | Bod<br>bx1 | Bod<br>sx3 | Bod<br>sx1 | Fuß | Anf | Dre |
-| - | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: |
-| Bodengruppe 1x3m |  |  |  |  |  | 2x |  | 2x |  |  |  | 2x | 1x |  |  | 4x |  |  |
-| Arbeitsplattform |  |  |
-| Lastausleger |  |  |
-| Ausichtsplattform |  |  |
-| Schnellretgerüst |  |  |
-| Ausstiegshilfe | 
-| Dekonschläuse |
-| Übungsturm klein |
-| Übungsturm groß |
-| Trümmersteg |
-| Steg freitragend 6m |
-| Steg freitragend 9m |
 > [! WARNING]
 > [!WARNING]
 > **Richtigkeit & Vollständigkeit:** Diese Liste wird manuell gepflegt. Eine Garantie für die Fehlerfreiheit der Mengenangaben kann nicht übernommen werden.
