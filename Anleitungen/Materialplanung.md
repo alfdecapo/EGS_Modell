@@ -90,4 +90,4 @@ Template:
 	* 1x Drehkupplung Lose
 	* 1x Nagel
 ---
-[Zurück zur Hauptanleitung](README.md)
+[Zurück zur Hauptanleitung](../README.md)

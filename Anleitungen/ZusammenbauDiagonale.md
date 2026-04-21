@@ -28,4 +28,4 @@ geht und das Keilschloss von der Schraube weg zeigt. Solltest du den Nagel verwe
 * [Diagonale Gelenk](../Drucker%20Dateien/Diagonale%20Gelenk.STL)
 * [Diagonale Keilschloss](../Drucker%20Dateien/Diagonale%20Keilschloss.STL)
 ---
-[Zurück zur Hauptanleitung](README.md)
+[Zurück zur Hauptanleitung](../README.md)

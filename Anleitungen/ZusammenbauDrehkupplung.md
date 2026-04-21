@@ -16,4 +16,4 @@ Platziere auf beiden Seiten des Nagels eine M6 Schraube um das Druckteil nicht z
 * [Drehkupplung Lose](../Drucker%20Dateien/Drehkupplung%20Gelenk.STL)
 * [Drehkupplung Klemme](../Drucker%20Dateien/Drehkupplung%20Klemme.STL)
 ---
-[Zurück zur Hauptanleitung](README.md)
+[Zurück zur Hauptanleitung](../README.md)

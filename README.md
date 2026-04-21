@@ -14,7 +14,7 @@ Das Projekt setzt auf Schnappverbindungen. Da 3D-Drucker das Modell oft mit mini
 	* Flansch
 	* Diagonale Keilschloss
 	* Horizontale Keilschloss
-* Anpassung: Sollten die Teile nicht sauber einrasten, [nimm die Korrekturen gezielt in der FreeCAD-Datei vor](#Software-&-Mitwirken).
+* Anpassung: Sollten die Teile nicht sauber einrasten, [nimm die Korrekturen gezielt in der FreeCAD-Datei vor](#-software--mitwirken).
 
 ### 2. Umfang & Beschaffung
 Da es sich um einen modularen Bausatz handelt, variiert der Bedarf je nach gewählter Gerüst-Größe.

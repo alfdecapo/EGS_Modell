@@ -29,4 +29,4 @@ Der Kleber ist nicht sofort fest,du kannst den Tisch als hilfe nehmen.
 * [Flansch](../Drucker%20Dateien/Flansch.STL)
 * [Vertikalen Verbinder](../Drucker%20Dateien/Vertikalen%20Verbinder.STL)
 ---
-[Zurück zur Hauptanleitung](README.md)
+[Zurück zur Hauptanleitung](../README.md)
