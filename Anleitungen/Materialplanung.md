@@ -17,48 +17,71 @@ aus dem 3D-Drucker kommen:
 ## Bausätze
 Boah! Voll leer hier! Ich hatte noch keine Zeit die Teilelisten aus den EGS-Handbücher zu importieren.
 Jeder OV sollte diese aber haben. Nutze bitte diese in der Zwischenzeit.
+| Bezeichnung                                                               | BS 1 | BS 2 | BS 3 | BS4 | BS 5 | ∑ BS 1-5 |
+|---------------------------------------------------------------------------|------|------|------|-----|------|----------|
+| Vertikalstiel 100 2 2 4 8                                                 |      |      |      |     |      |          |
+| Vertikalstiel 150 2 2 4                                                   |      |      |      |     |      |          |
+| Vertikalstiel 200 3 4 1 2 10                                              |      |      |      |     |      |          |
+| Vertikalstiel 300 3 2 3 8                                                 |      |      |      |     |      |          |
+| Riegel 100 2 6 4 2 10 24                                                  |      |      |      |     |      |          |
+| Riegel 150 2                                                              |      |      |      |     |      |          |
+| Riegel 200 9 7 16                                                         |      |      |      |     |      |          |
+| Riegel 300 4 4 20 11 39                                                   |      |      |      |     |      |          |
+| Doppelrohrriegel 150 4                                                    |      |      |      |     |      |          |
+| Doppelrohrriegel 200 2 4 6                                                |      |      |      |     |      |          |
+| Vertikaldiagonale 100 x H 4 4 4 12                                        |      |      |      |     |      |          |
+| Vertikaldiagonale 200 x H 18 18                                           |      |      |      |     |      |          |
+| Vertikaldiagonale 300 x H 2 2 8 4 16                                      |      |      |      |     |      |          |
+| Gewindefußplatte 40 cm 9 1 10                                             |      |      |      |     |      |          |
+| Gewindefußplatte 60 cm 2 4 6                                              |      |      |      |     |      |          |
+| Gewindefußplatte mit Schäkel 3 3                                          |      |      |      |     |      |          |
+| Anfangsstück 6 3 7 16                                                     |      |      |      |     |      |          |
+| Stahlboden 24 mit Rundrohrauflage 100 1 1                                 |      |      |      |     |      |          |
+| 19 Stahl boden 24 mit Rundrohrauflage 300 1 3 4 8                         |      |      |      |     |      |          |
+| 20 Stahl boden 32 mit Rund                                                |      |      |      |     |      |          |
+| rohrauflage 100 2 2                                                       |      |      |      |     |      |          |
+| 21 Stahl boden 32 mit Rund                                                |      |      |      |     |      |          |
+| rohrauflage 300 2 8 8 18                                                  |      |      |      |     |      |          |
+| 22 Durchstiegsboden mit Rund                                              |      |      |      |     |      |          |
+| rohraufnahme 300 3 3                                                      |      |      |      |     |      |          |
+| 23 Bordbrett für Rundrohrauf                                              |      |      |      |     |      |          |
+| nahme 100 4 4                                                             |      |      |      |     |      |          |
+| 24 Bordbrett für Rundrohrauf                                              |      |      |      |     |      |          |
+| nahme 150 2                                                               |      |      |      |     |      |          |
+| 25 Bordbrett für Rundrohrauf                                              |      |      |      |     |      |          |
+| nahme 200 2 4 6                                                           |      |      |      |     |      |          |
+| 26 Bordbrett für Rundrohrauf                                              |      |      |      |     |      |          |
+| nahme 300 2 4 6                                                           |      |      |      |     |      |          |
+| 27 Dreibockkopfteil 1 1                                                   |      |      |      |     |      |          |
+| 28 Abspannkette für Karabiner 1 1                                         |      |      |      |     |      |          |
+| 29 Einsteckring mit Klapp stecker 1 1                                     |      |      |      |     |      |          |
+| 30 Kopfplatte 2 2                                                         |      |      |      |     |      |          |
+| 31 EGSGewinderohr 2 2                                                     |      |      |      |     |      |          |
+| 32 System freies Gewinderohr 350 1 1                                      |      |      |      |     |      |          |
+| 33 Fahrrolle gebremst 4 4                                                 |      |      |      |     |      |          |
+| 34 Fuß plattenkonsole 6 6                                                 |      |      |      |     |      |          |
+| 35 Fuß plattenadapter 3 3                                                 |      |      |      |     |      |          |
+| 36 Gleisrollen totmanngebremst 2                                          |      |      |      |     |      |          |
+| 37 Gleisrollen ungebremst 2                                               |      |      |      |     |      |          |
+| 38 Scheinwerferadapter 4 4                                                |      |      |      |     |      |          |
+| 39 Normalkupplungen 2 4 6                                                 |      |      |      |     |      |          |
+| 40 Drehkupplungen 3 3 6                                                   |      |      |      |     |      |          |
+| 41 Klapp stecker 8 8                                                      |      |      |      |     |      |          |
+| 42 Spezialschrauben mit                                                   |      |      |      |     |      |          |
+| Sicher ungsmutter 20 20                                                   |      |      |      |     |      |          |
+| 43 Mehrzweckplane 2                                                       |      |      |      |     |      |          |
+| 44 Deckel für MZP 2                                                       |      |      |      |     |      |          |
+| 45 Reparaturflicken 1                                                     |      |      |      |     |      |          |
+| 46 Dreh momentschlüssel 2 2                                               |      |      |      |     |      |          |
+| 47 Zurrgurt einteilig 200 daN,                                            |      |      |      |     |      |          |
+| 35 mm breit, 6 m lang 2 2                                                 |      |      |      |     |      |          |
+| 48                                                                        |      |      |      |     |      |          |
+| Zurrgurt zweiteilig, mit Spitz                                            |      |      |      |     |      |          |
+| haken, 2000 daN, 50 mm breit,                                             |      |      |      |     |      |          |
+| 8 m lang                                                                  |      |      |      |     |      |          |
+| 2 2                                                                       |      |      |      |     |      |          |
+| 49 Zimmermannsgürtel 2 2                                                  |      |      |      |     |      |          |
 
-| Bezeichnung | BS 1 | BS 2 | BS 3 | BS 4 | BS 5 | ∑ BS 1-5 | BS Bahn | BS MZP|
-|Vertikalstiel 100 |2 |2 |4 |8|
-|Vertikalstiel 150 |2 |2 |4|
-|Vertikal stiel 200 |3 |4 |1 |2 |10|
-|Vertikal stiel 300 |3 |2 |3 |8|
-|Riegel 100 |2 |6 |4 |2 |10 |24|
-|Riegel 150 |2|
-|Riegel 200 |9 |7 |16|
-|Riegel 300 |4 |4 |20 |11 |39|
-|Doppelrohrriegel 150 |4|
-|Doppelrohrriegel 200 |2 |4 |6|
-|Vertikaldiagonale 100 x H |4 |4 |4 |12|
-|Vertikaldiagonale 200 x H |||18 |18|
-|Vertikaldiagonale 300 x H |2 |2 |8 |4 |16|
-|Gewindefußplatte 40 cm |9 |1 |10|
-|Gewindefußplatte 60 cm |2 |4 |6|
-|Gewindefußplatte mit Schäkel |3 |||||3|
-|Anfangsstück |6 |3 |7 |16|
-|Stahlboden 24 mit Rundrohrauflage 100 |1 |1|
-|Stahlboden 24 mit Rundrohrauflage 300 |1 |3 |4 |8|
-|Stahlboden 32 mit Rundrohrauflage 100 |2 |2|
-|Stahlboden 32 mit Rundrohrauflage 300 |2 |8 |8 |18|
-|Durchstiegsboden mit Rundrohrauflage 300 |3 |3|
-|Bordbrett für Rundrohrauflage 100 |4 |4|
-|Bordbrett für Rundrohrauflage 150 |2|
-|Bordbrett für Rundrohrauflage 200 |2 |4 |6|
-|Bordbrett für Rundrohrauflage 300 |2 |4 |6|
-|Dreibockkopfteil |1||||1|
-|Abspannkette für Karabiner |1|||||1|
-|Einsteckring mit Klapp stecker |1 |1|
-|Kopfplatte |2 |2|
-|EGSGewinderohr |2 |2|
-|System freies Gewinderohr 350|1|1|
-|Fahrrolle gebremst |4 |4|
-|Fuß plattenkonsole |6 |6|
-|Fuß plattenadapter |3 |3|
-|Gleisrollen totmanngebremst |||||||2|
-|Gleisrollen ungebremst |||||||2|
-|Scheinwerferadapter |4 |4|
-|Normalkupplungen |2 |4 |6|
-|Drehkupplungen |3 |3 |6|
 
 
 <!--
