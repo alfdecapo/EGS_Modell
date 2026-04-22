@@ -11,7 +11,7 @@
 | [![Bild]()](Drucker-Dateien/Fußadapter-Simpel.STL) | [Fußadapter Simpel](Drucker-Dateien/Fußadapter-Simpel.STL) | Adapter | [Füße und Anfangstücke](Anleitungen/ZusammenbauFuss.md) |
 | [![Bild](Bilder/Schraubkupplung_fest.png)](Drucker-Dateien/Drehkupplung-Klemme.STL) | [Drehkupplung Klemme](Drucker-Dateien/Drehkupplung-Klemme.STL) | Klemme | [Drehkupplung](Anleitungen/ZusammenbauDrehkupplung.md) |
 | [![Bild](Bilder/Schraubkupplung_lose.png)](Drucker-Dateien/Drehkupplung-Lose.STL) | [Drehkupplung Lose](Drucker-Dateien/Drehkupplung-Lose.STL) | Lose | [Drehkupplung](Anleitungen/ZusammenbauDrehkupplung.md) |
-| [![Bild](Bilder/Vertikalstiel_V2_Mittelteil.png)](Drucker-Dateien/Vertikalstiel_V2_Mittelteil.stl)| [Vertikalstiel V2 Mittelteil](Drucker-Dateien/Vertikalstiel_V2_Mittelteil.STL)|Vertikalstiel_gedruckt_Mittelteil||
+| [![Bild](Bilder/Vertikalstiel_V2_Mittelteil.png)](Drucker-Dateien/Vertikalstiel_V2_Mittelteil.stl)| [Vertikalstiel V2 Mittelteil](Drucker-Dateien/Vertikalstiel_V2_Mittelteil.STL)|Stiel_V2_Mittelteil|[Stiel_V2_Mittelteil](Anleitungen/Zusammenbau_Vertikalstiel_V2.md)|
 
 ## Sonstige Dateien
 
