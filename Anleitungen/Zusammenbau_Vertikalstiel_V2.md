@@ -17,5 +17,5 @@ Sollten Toleranzen nicht ausreichen, kann auch eine Standbohrmaschine helfen ;-)
 
 
 
-[Bild](Bilder/Vertikalstiel\_V2\_Prototyp.jpg)
+[![Bild](Bilder/Vertikalstiel\_V2\_Prototyp.jpg)]
 
