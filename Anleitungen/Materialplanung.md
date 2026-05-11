@@ -126,9 +126,9 @@ Jeder OV sollte diese aber haben. Nutze bitte diese in der Zwischenzeit.
 |   | Maße Holzplatte | Bodenadapter breit |  Bodenadapter schmal | 
 | - | - | -: | -: |
 | 32x300 | 8 x 36 x 369 mm | 2x |
-| 32x100 | 8 x 36 x 239 mm | 2x |  |
+| 32x100 | 8 x 36 x 109 mm | 2x |  |
 | 24x300 | 8 x 28 x 369 mm |  | 2x |
-| 24x100 | 8 x 28 x 239 mm |  | 2x |
+| 24x100 | 8 x 28 x 109 mm |  | 2x |
 
 [Anleitung](ZusammenbauBoden.md)
 ### Sonstige

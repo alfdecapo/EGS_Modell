@@ -13,9 +13,9 @@ Zur Vereinfachung werden hier nur Adapter und Holzplatte verwendet.
 ## 🛠 Zusammenbau
 * Schneide die Holzplatte auf die gewünschten Maße zu.
 	* Breit 3m -> 36 x 369 mm
-	* Breit 1m -> 36 x 239 mm
+	* Breit 1m -> 36 x 109 mm
 	* Schmal 3m -> 28 x 369 mm
-	* Schmal 1m ->  28 x 239 mm
+	* Schmal 1m ->  28 x 109 mm
 * Klebe auf jeder der kurzen Seiten der Holzplatte einen Adapter, so dass die Haken von der Holzplatte entfernt sind
 
 ## 📄 Relevante Dateien
