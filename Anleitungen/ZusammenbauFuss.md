@@ -26,8 +26,8 @@ Achte dabei darauf, dass die kleinen Löcher des Flansches zu den seiten des Fu�
 ![Bild zum Tipp](../Bilder/Tipp1_Anfangsstuck.jpg)
 
 ## 📄 Relevante Dateien
-* [Flansch](../Drucker%20Dateien/Flansch.STL)
-* [Fuß](../Drucker%20Dateien/Fuß.STL)
-* [Fußadapter Simpel](../Drucker%20Dateien/Fußadapter%20Simpel.STL)
+* [Flansch](../Drucker%20Dateien/Teildruck%207.7/Flansch.STL)
+* [Fuß](../Drucker%20Dateien/Teildruck%207.7/Fuß.STL)
+* [Fußadapter Simpel](../Drucker%20Dateien/Teildruck%207.7/Fußadapter%20Simpel.STL)
 ---
 [Zurück zur Hauptanleitung](../README.md)

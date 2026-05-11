@@ -19,6 +19,6 @@ Zur Vereinfachung werden hier nur Rundstab und Keilschloss verwendet.
 Achte dabei darauf, dass die Keilschlösser auf beiden Seiten gleich ausgerichtet sind. Der Kleber ist nicht sofort fest,du kannst den Tisch als hilfe nehmen.
 
 ## 📄 Relevante Dateien
-* [Horizontale Keilschloss](../Drucker%20Dateien/Horizontale%20Keilschloss.STL)
+* [Horizontale Keilschloss](../Drucker%20Dateien/Teildruck%207.7/Horizontale%20Keilschloss.STL)
 ---
 [Zurück zur Hauptanleitung](../README.md)

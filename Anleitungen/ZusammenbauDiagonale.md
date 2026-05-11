@@ -27,7 +27,7 @@ geht und das Keilschloss von der Schraube weg zeigt. Solltest du den Nagel verwe
 * Überprüfe ob sich die Gelenke bewegen lassen
 
 ## 📄 Relevante Dateien
-* [Diagonale Gelenk](../Drucker%20Dateien/Diagonale%20Gelenk.STL)
-* [Diagonale Keilschloss](../Drucker%20Dateien/Diagonale%20Keilschloss.STL)
+* [Diagonale Gelenk](../Drucker%20Dateien/Teildruck%207.7/Diagonale%20Gelenk.STL)
+* [Diagonale Keilschloss](../Drucker%20Dateien/Teildruck%207.7/Diagonale%20Keilschloss.STL)
 ---
 [Zurück zur Hauptanleitung](../README.md)

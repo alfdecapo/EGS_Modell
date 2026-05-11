@@ -30,7 +30,7 @@ Der Kleber ist nicht sofort fest,du kannst den Tisch als hilfe nehmen.
 * Klebe die Unterseite des Rundstabes in das kleine Loch des Adapters
 
 ## 📄 Relevante Dateien
-* [Flansch](../Drucker%20Dateien/Flansch.STL)
-* [Vertikalen Verbinder](../Drucker%20Dateien/Vertikalen%20Verbinder.STL)
+* [Flansch](../Drucker%20Dateien/Teildruck%207.7/Flansch.STL)
+* [Vertikalen Verbinder](../Drucker%20Dateien/Teildruck%207.7/Vertikalen%20Verbinder.STL)
 ---
 [Zurück zur Hauptanleitung](../README.md)

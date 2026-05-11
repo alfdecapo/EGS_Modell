@@ -15,7 +15,7 @@ Platziere auf beiden Seiten des Nagels eine M6 Schraube um das Druckteil nicht z
 * Überprüfe ob sich die Gelenke bewegen lassen
 
 ## 📄 Relevante Dateien
-* [Drehkupplung Lose](../Drucker%20Dateien/Drehkupplung%20Gelenk.STL)
-* [Drehkupplung Klemme](../Drucker%20Dateien/Drehkupplung%20Klemme.STL)
+* [Drehkupplung Lose](../Drucker%20Dateien/Teildruck%207.7/Drehkupplung%20Gelenk.STL)
+* [Drehkupplung Klemme](../Drucker%20Dateien/Teildruck%207.7/Drehkupplung%20Klemme.STL)
 ---
 [Zurück zur Hauptanleitung](../README.md)
