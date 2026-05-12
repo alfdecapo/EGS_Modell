@@ -29,8 +29,22 @@ Achte dabei darauf, dass alle Flansche in die selbe Richtung zeigen.
 Der Kleber ist nicht sofort fest,du kannst den Tisch als hilfe nehmen.
 * Klebe die Unterseite des Rundstabes in das kleine Loch des Adapters
 
+## Alternativer Zusammenbau mit der Schablone
+* Drucke die Schablone für die Vertikalstiele aus (sie passt diagonal auf die meisten Druckplatten): [Schablone zum Ausrichten der Flansche - Anfangsteil](../Drucker%20Dateien/Teildruck%207.7/Schablone%20EGS%20Vertikalstiel%20-%20Anfangsteil.stl) und [Schablone zum Ausrichten der Flansche - Endteil](../Drucker%20Dateien/Teildruck%207.7/Schablone%20EGS%20Vertikalstiel%20-%20Endteil.stl)
+* Klebe den vertikalen Verbinder (die 30mm lange schmale Hülse)  fest und kontrolliere danach die Gesamtlänge der Vertikalstiele
+	* Gesamtlänge Vertikalstiele incl. Vertikalverbinder
+ 		* 1,0 m -> 144 mm
+		* 1,5 m -> 209 mm
+		* 2,0 m -> 274 mm
+		* 2,5 m -> 339 mm
+		* 3,0 m -> 404 mm
+* klebe die Flansche an die ungefähren Stellen auf dem Vertikalstiel, die Schablone hilft dann beim korrekten Ausrichten auf 0.5mm genau
+
+
 ## 📄 Relevante Dateien
 * [Flansch](../Drucker%20Dateien/Teildruck%207.7/Flansch.STL)
 * [Vertikalen Verbinder](../Drucker%20Dateien/Teildruck%207.7/Vertikalen%20Verbinder.STL)
+* [Schablone zum Ausrichten der Flansche - Anfangsteil](../Drucker%20Dateien/Teildruck%207.7/Schablone%20EGS%20Vertikalstiel%20-%20Anfangsteil.stl)
+* [Schablone zum Ausrichten der Flansche - Endteil](../Drucker%20Dateien/Teildruck%207.7/Schablone%20EGS%20Vertikalstiel%20-%20Endteil.stl)
 ---
 [Zurück zur Hauptanleitung](../README.md)
