@@ -52,7 +52,7 @@ Der Kleber ist nicht sofort fest,du kannst den Tisch als hilfe nehmen.
 
 
 ## 📄 Relevante Dateien
-* [Flansch](../Drucker%20Dateien/Teildruck%207.7/Flansch.STL)
+* [Flansch(1:7)](../Drucker%20Dateien/Teildruck%207.7/Flansch%201zu7.7.STL)
 * [Vertikalen Verbinder](../Drucker%20Dateien/Teildruck%207.7/Vertikalen%20Verbinder.STL)
 * [Schablone zum Ausrichten der Flansche - Anfangsteil](../Drucker%20Dateien/Teildruck%207.7/Schablone%20EGS%20Vertikalstiel%20-%20Anfangsteil.stl)
 * [Schablone zum Ausrichten der Flansche - Endteil](../Drucker%20Dateien/Teildruck%207.7/Schablone%20EGS%20Vertikalstiel%20-%20Endteil.stl)
