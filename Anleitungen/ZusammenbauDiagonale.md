@@ -15,9 +15,9 @@ Zur Vereinfachung werden hier nur Rundstab, Nagel, Gelenk und Keilschloss verwen
 ![Explosionsdarstellung einer Seite einer Daigonalen um den Ablauf des Zusammenbaues sehen zu können](../Bilder/Diagonale-Explosion.PNG)
 
 * Länge den Rundstab auf die benötiget Länge ab
-	* 2x1 -> 210mm
-	* 2x2 -> 293mm
-	* 2x3 -> 401mm
+	* 2x1 -> 269mm
+	* 2x2 -> 338mm
+	* 2x3 -> 435mm
 * Klebe auf jede Seite ein Gelenk so, dass das Ende des Rundstabes in das große Loch des Gelenkes steckt.
 Achte dabei darauf, dass die Gelenke auf beiden Seiten gleich ausgerichtet sind. Der Kleber ist nicht sofort fest,du kannst den Tisch als hilfe nehmen.
 * Schraube nun die Schraube in das Keilschloss, so dass die Schraube durch das Gelenk in das Keilschloss 
